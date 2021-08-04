@@ -1,1 +1,1 @@
-# function-to-add-two-numbers-in-python
+# function to add two numbers in python
